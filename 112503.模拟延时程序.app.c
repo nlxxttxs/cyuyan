@@ -3,11 +3,11 @@
 void main()
 {
 	int a,s;
-	for(a=1;a<=9;a++)
+	for(a=1;a<=50;a++)
 	{
-		for(s=1;s<=9;s++){
+		for(s=1;s<=50;s++){
 printf("%dx%d=%d\t",s,a,a*s);
-		Sleep(100);
+		Sleep(10);
 		}
 		printf("\n");
 	}

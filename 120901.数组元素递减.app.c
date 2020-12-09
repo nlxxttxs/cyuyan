@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-int i,t,w;int q=90;
+int i,t;int q=90;
 int a[9][10]={
     {},
     {},
